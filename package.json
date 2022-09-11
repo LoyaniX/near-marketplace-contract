@@ -1,0 +1,12 @@
+{
+  "name": "near-marketplace-contract",
+  "version": "1.0.0",
+  "description": "near smartcontract for marketplace",
+  "main": "index.js",
+  "repository": "https://github.com/LoyaniX/near-marketplace-contract.git",
+  "author": "loyanix <loyanmaksim@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
