@@ -2,7 +2,7 @@
   "name": "near-marketplace-contract",
   "version": "1.0.0",
   "description": "near smartcontract for marketplace",
-  "main": "assamblt/index.ts",
+  "main": "assembly/index.ts",
   "repository": "https://github.com/LoyaniX/near-marketplace-contract.git",
   "author": "loyanix <loyanmaksim@gmail.com>",
   "license": "MIT",
